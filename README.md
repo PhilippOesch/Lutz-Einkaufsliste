@@ -18,6 +18,8 @@
 
 --- 
 
+![Portrait](assets/test_image.jpg)
+
 ### Zusätzliches
 ```Javascript
 console.log("Mein Lebenslauf")
