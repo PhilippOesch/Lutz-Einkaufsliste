@@ -16,6 +16,8 @@
 | 2000 - 2012 | Mustermann GmbH |
 | 2012 - 2020 | Selbständigkeit |
 
+--- 
+
 ### Zusätzliches
 ```Javascript
 console.log("Mein Lebenslauf")
